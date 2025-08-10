@@ -1,1 +1,17 @@
-# Kişisel Finans Takip Paneli\n\nBu proje, kullanıcıların gelir ve giderlerini takip edebileceği web tabanlı bir finans yönetim panelidir.\nKullanıcı, günlük harcamalarını kategori bazlı ekleyebilir, aylık özetleri görebilir ve finansal durumunu daha iyi yönetebilir.\n\n## Teknolojiler\n\n- ASP.NET Core Web API\n- Entity Framework Core + SQL Server\n- HTML, CSS, JavaScript (ileri aşamada React eklenebilir)\n- Git & GitHub\n\n## Yapılacaklar\n\n- [x] Proje başlangıcı ve yapılandırma\n- [ ] Kullanıcı kayıt ve giriş sistemi\n- [ ] Gelir/Gider CRUD işlemleri\n- [ ] Aylık özet ve grafik gösterimleri\n- [ ] Kategori bazlı filtreleme\n- [ ] Responsive tasarım\n\n## Geliştirici\n\n- Yiğit Kağan Kartal – [GitHub Profilim](https://github.com/yigitkagankartal)
+# Kişisel Finans Takip Paneli
+Bu proje, kullanıcıların gelir ve giderlerini takip edebileceği web tabanlı bir finans yönetim panelidir.
+Kullanıcı, günlük harcamalarını kategori bazlı ekleyebilir, aylık özetleri görebilir ve finansal durumunu daha iyi yönetebilir.
+
+## Teknolojiler
+
+- ASP.NET Core Web API
+- Entity Framework Core + SQL Server
+- HTML, CSS, JavaScript (ileri aşamada React eklenebilir)
+- Git & GitHub\n\n## Yapılacaklar
+-  [x] Proje başlangıcı ve yapılandırma
+-  [ ] Kullanıcı kayıt ve giriş sistemi
+-  [ ] Gelir/Gider CRUD işlemleri
+-  [ ] Aylık özet ve grafik gösterimleri
+-  [ ] Kategori bazlı filtreleme
+-  [ ] Responsive tasarım
+## [Dev](https://github.com/yigitkagankartal)
