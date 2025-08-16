@@ -7,11 +7,22 @@ Kullanıcı, günlük harcamalarını kategori bazlı ekleyebilir, aylık özetl
 - ASP.NET Core Web API
 - Entity Framework Core + SQL Server
 - HTML, CSS, JavaScript (ileri aşamada React eklenebilir)
-- Git & GitHub\n\n## Yapılacaklar
--  [x] Proje başlangıcı ve yapılandırma
--  [ ] Kullanıcı kayıt ve giriş sistemi
--  [ ] Gelir/Gider CRUD işlemleri
--  [ ] Aylık özet ve grafik gösterimleri
--  [ ] Kategori bazlı filtreleme
--  [ ] Responsive tasarım
+- Git & GitHub
+
+## Yapılanlar (Güncel Durum)
+
+- [x] Proje başlangıcı ve yapılandırma
+- [x] User, Category, Account ve Transaction modelleri oluşturuldu
+- [x] User, Category, Account ve Transaction controller’ları eklendi
+- [x] CRUD işlemleri backend üzerinde çalışır durumda
+- [x] Swagger UI ile API test edilebilir
+
+## Yapılacaklar
+
+- [ ] Kullanıcı kayıt ve giriş sistemi
+- [ ] Gelir/Gider CRUD işlemleri frontend ile entegre
+- [ ] Aylık özet ve grafik gösterimleri
+- [ ] Kategori bazlı filtreleme
+- [ ] Responsive tasarım
+
 ## [Dev](https://github.com/yigitkagankartal)
